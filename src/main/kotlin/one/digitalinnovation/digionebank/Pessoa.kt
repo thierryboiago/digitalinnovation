@@ -12,8 +12,3 @@ class Pessoa {
 
 
 }
-
-fun main() {
-    val pessoa = Pessoa()
-    println(pessoa.pessoaInfo())
-}
